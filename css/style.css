@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Cookie&display=swap");
 
 body {
-  background-image: url("/img/bg.jpg");
+  background-image: url("img/bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -95,7 +95,7 @@ body {
   justify-content: center;
   width: 100vw;
   height: 470px;
-  background-image: url("/img/bg2.jpg");
+  background-image: url("img/bg2.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -225,7 +225,7 @@ body {
     margin: 0px;
     height: 100vh;
     padding: 0px;
-    background-image: url("/img/bg.jpg");
+    background-image: url("img/bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
